@@ -1,0 +1,13 @@
+{
+  "channel": "production",
+  "format_version": 1,
+  "latest": {
+    "catalog_revision": 1,
+    "file_sha256": "bebf5dc39f70e3c2ccb0ee9bcf8fb7ede5b34ea18a20a8ce36dbfb32f2bb15df",
+    "generated_at": "2026-10-04T09:05:53.204561+00:00",
+    "package_id": "OPMT_CARD_DATA_R1_20261004T090553Z",
+    "package_url": "OPMT_CARD_DATA_R1_20261004T090553Z.bebf5dc39f70.package.json",
+    "supersedes": "BASELINE_V16",
+    "trusted_key_id": "opmt-card-data-prod-v1"
+  }
+}
